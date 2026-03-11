@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vipul-akarapu/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="16" height="16"/>
+<a href="https://www.linkedin.com/in/vipul-akarapu/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="linkedin" width="30" height="30"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
