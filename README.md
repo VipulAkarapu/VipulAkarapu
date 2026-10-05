@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satya Vipul Akarapu</h1>
 <h3 align="center">A Software Engineer from Irvine, CA</h3>
 
-
-- 🔭 I’m recently worked on  **EcomPro**, an ecommerce website
-
-- 🌱 I’m currently learning **AWS Certified Solutions Architect - Associate**
-
-- 👯 I’m looking to collaborate on **Backend development projects**
+- 👯 I’m looking to collaborate on **Full-stack development projects**
 
 - 📫 How to reach me **Vipulakarapuwork7@gmail.com**
 
