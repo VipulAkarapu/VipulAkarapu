@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satya Vipul Akarapu</h1>
-<h3 align="center">A software engineer from Irvine, CA</h3>
+<h3 align="center">A Software Engineer from Irvine, CA</h3>
 
 
 - 🔭 I’m recently worked on  **EcomPro**, an ecommerce website
