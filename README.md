@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Vipulakarapuwork7@gmail.com**
 
-<h3 align="left">Connect with me:-</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vipul-akarapu/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
 </p>
